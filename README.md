@@ -98,6 +98,16 @@ keep devices apart ("AP isolation" or "client isolation"); turn that off, or use
 
 ## Versions
 
+### 1.6.3 — Android TV and update notifications
+- SingSong works on Android TV and shows on the TV home screen with its own banner.
+- Android tells you when a new SingSong is out, with a notification, even when the app is closed.
+- TV layout: big cards, no drawers, a full-screen Library and Settings, and a clear highlight that the TV
+  remote can move everywhere.
+- FAQs: how to move the app and song pack from a phone to a TV, and two columns on tablets and TVs.
+- FAQs: SingSong and its songs are fully offline; only the update check and notification use the internet.
+- The penguin next to the SingSong name on the home screen.
+- The volume setting is gone; use the TV's or tablet's volume.
+
 ### 1.6.0 — Android TV
 - SingSong works on Android TV and shows on the TV home screen with its own banner.
 - Android tells you when a new SingSong is out, with a notification, even when the app is closed.
