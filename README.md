@@ -8,6 +8,14 @@
 
 <p align="center">Free · For personal use only · Not monetized</p>
 
+<p align="center">
+  <a href="https://github.com/emjiixx/singsong-releases/releases/latest"><b>⬇ Download the latest SingSong APK</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/emjiixx/singsong-releases/releases#release-SingSong-Zip-Link"><b>🎵 Download the song pack (.zip)</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/emjiixx/singsong-releases/releases">All releases</a>
+</p>
+
 ---
 
 ## What is SingSong?
@@ -50,18 +58,24 @@ and the app works the same without it.
   background videos about 330 MB, sound bank about 115 MB, song list about 20 MB). While importing, the
   `.zip` also needs room (about 900 MB); you can delete it after the import finishes.
 - **A SingSong song pack** (`.zip`) is not included in the app.
+  **[Download the song pack here](https://github.com/emjiixx/singsong-releases/releases#release-SingSong-Zip-Link)**,
+  then import it (see Install).
 - **Phone remote guests** need any phone with a web browser (Android or iPhone) on the same Wi-Fi as the
   tablet, or connected to the tablet's hotspot. Nothing to install.
 - Tested on a Redmi Pad Pro 5G (Android 16, 8 GB RAM).
 
 ## Install
 
-1. Download the latest `SingSong-<version>.apk` from **Releases** (on the right of this page).
+1. Open **[the latest release](https://github.com/emjiixx/singsong-releases/releases/latest)** and download
+   `SingSong-<version>.apk` under **Assets**. Older versions are in
+   **[all releases](https://github.com/emjiixx/singsong-releases/releases)**.
 2. Open the downloaded file. If Android asks, allow your browser or file manager to **install unknown
    apps**, then tap **Install**.
-3. Open SingSong, tap **Import data**, and choose your SingSong `.zip` song pack (or the folder it was
-   unpacked into). Your original files are never changed.
-4. Tap **Open Library**, choose a song, and sing.
+3. **[Download the SingSong song pack (.zip)](https://github.com/emjiixx/singsong-releases/releases#release-SingSong-Zip-Link)**
+   to the same device (about 900 MB; Wi-Fi recommended).
+4. Open SingSong, tap **Import data**, and choose the downloaded `.zip` song pack (or the folder it was
+   unpacked into). Your original files are never changed, and you can delete the `.zip` after the import.
+5. Tap **Open Library**, choose a song, and sing.
 
 ## Updating
 
@@ -82,6 +96,12 @@ If phones cannot open the remote, check that they are on the same Wi-Fi (not mob
 keep devices apart ("AP isolation" or "client isolation"); turn that off, or use the tablet's hotspot.
 
 ## Versions
+
+### 1.5.2 — the first full release
+- Everything above, tested and ready: the karaoke stage, the song book and queue, the phone remote, the
+  settings, FAQs in Tagalog and English, credits, and updates with Later or Download.
+- Tested on a tablet: 10 phones and 20 songs in a row, the Wi-Fi turned off and on, and 150 phones
+  connecting at once.
 
 ### 1.4.0
 - When a song starts, the name of the person who added it from their phone shows in red under the title.
