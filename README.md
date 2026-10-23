@@ -36,7 +36,8 @@ and the app works the same without it.
 - **Queue:** reserve songs; "Up Next" shows who is singing next. Start singing when you are ready.
 - **Phone remote:** guests scan a QR code (or type the address and a 6-digit code), enter their name, then
   search and add songs. Each guest can skip, remove, or change the key of **only their own** songs.
-- **Key and volume:** change the key a semitone at a time, set the volume, lyrics size, and more.
+- **Key and settings:** change the key a semitone at a time, and set the lyrics size, lyric delay, sound bank,
+  and more. The music plays at full volume; use the TV's or tablet's own volume.
 - **Score:** an optional fun score after each song (it does not listen to your singing).
 - **FAQs in Tagalog and English**, What's new after each update, and light and dark menus.
 - **Updates:** when a newer SingSong is out, the app tells you what changed and offers the download.
@@ -96,6 +97,15 @@ If phones cannot open the remote, check that they are on the same Wi-Fi (not mob
 keep devices apart ("AP isolation" or "client isolation"); turn that off, or use the tablet's hotspot.
 
 ## Versions
+
+### 1.6.0 — Android TV
+- SingSong works on Android TV and shows on the TV home screen with its own banner.
+- Android tells you when a new SingSong is out, with a notification, even when the app is closed.
+- TV layout: big cards, no drawers, a full-screen Library and Settings, and a clear highlight that the TV
+  remote can move everywhere.
+- FAQs: how to move the app and song pack from a phone to a TV, and two columns on tablets and TVs.
+- The penguin next to the SingSong name on the home screen.
+- The volume setting is gone; use the TV's or tablet's volume.
 
 ### 1.5.2 — the first full release
 - Everything above, tested and ready: the karaoke stage, the song book and queue, the phone remote, the
