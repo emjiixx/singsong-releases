@@ -8,10 +8,6 @@
 
 <p align="center">Free · For personal use only · Not monetized</p>
 
-<p align="center">
-  <img src="apk_readme/home.jpg" alt="The SingSong home screen on a tablet" width="800">
-</p>
-
 ---
 
 ## What is SingSong?
