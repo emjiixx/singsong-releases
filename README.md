@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="apk_readme/penguin.png" alt="SingSong penguin" width="160">
+  <img src="penguin.png" alt="SingSong penguin" width="160">
 </p>
 
 <h1 align="center">SingSong</h1>
