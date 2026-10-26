@@ -98,6 +98,16 @@ keep devices apart ("AP isolation" or "client isolation"); turn that off, or use
 
 ## Versions
 
+### 2.0.4 — a new videoke home, Favorites, and cheers from phones
+- A new home that feels like a videoke: background videos, a title sung in red, and the songs up next
+  scrolling along the bottom. TVs keep their big cards.
+- A welcome tour on the first launch: choose the look, lyrics size, sound, and features, then import songs.
+- Favorites (tap the heart; songs you sing are added by themselves) and Random songs from them, to sing or
+  to add to the queue.
+- Keep singing, Guide melody on or off, Tempo 80 to 120 %, and Key, Tempo, and Delay in one panel.
+- Cheers 👏 ❤️ 🎉 from phones float up the stage; Recently sung keeps tonight's songs for 12 hours.
+- Loudness (Normal, Loud, Extra loud), and importing another sound bank from Settings.
+
 ### 1.6.3 — Android TV and update notifications
 - SingSong works on Android TV and shows on the TV home screen with its own banner.
 - Android tells you when a new SingSong is out, with a notification, even when the app is closed.
