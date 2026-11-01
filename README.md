@@ -98,6 +98,10 @@ keep devices apart ("AP isolation" or "client isolation"); turn that off, or use
 
 ## Versions
 
+### 2.1.0 — search that forgives typos
+- Apostrophes and spaces no longer matter, and a typo or two still finds your song: "Di na muii" finds
+  'Di Na Muli, in the Library and on the phone remote.
+
 ### 2.0.4 — a new videoke home, Favorites, and cheers from phones
 - A new home that feels like a videoke: background videos, a title sung in red, and the songs up next
   scrolling along the bottom. TVs keep their big cards.
